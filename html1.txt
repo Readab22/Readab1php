@@ -1,0 +1,64 @@
+<html>
+<body>
+
+<style>
+body {
+  background-image: url('reciclagem-nas-empresas-425x318.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+
+
+<font color="white"><br><br><center><h1>Recycling of Plastic Waste for 3D Printing Web Applications</h1></center></br></br></font>
+
+
+<center>
+ <B><div class="w3-container" id="about" style="background-color: " >
+        <h3  fontcolor="white"><span style="font-family: 'Times New Roman', Times, serif; font-style: normal; text-decoration: underline; 
+font-size: xx-large;; color: #FFFFFF;">Overview </span></h3>
+
+        <p style="color: #FFFFFF;"> Recycling Plastic for 3D Printing is a web application,
+        </p>
+        <p style="color: #FFFFFF;"> that provides environmental service for residential areas, 
+        </p>
+        <p style="color: #FFFFFF;"> It is the first web application specialized in collecting</p> 
+        <p style="color: #FFFFFF;"> plastic materials for recycling in the Sultanate of Oman </p>
+        <p style="color: #FFFFFF;"> </p> </B>
+    </div>
+
+</center>
+
+
+
+
+
+<br><br><br><br>
+<center>
+    </div>
+ <div style="background-color: 	#808080;">
+ <div style="border: medium groove #800000; width: 360px; height: 300px; background-color:  #808080; background-image: url('Image[9].jpeg');">
+ <label style="background-color: #800000; color: #FFFFFF">Uesr Name</label><br><input type="text"><br>
+ &nbsp;<label style="color: #FFFFFF; background-color: #800000">Passored</label><br>
+<input type="text" > 
+
+
+
+
+
+<br> 
+<p style="height: 30px"><button color="red" type="submit" style="font-family: 'Times New Roman', Times, serif; font-size: x-large; background-color: #800000; color: #FFFFFF;height: 40px; position: relative;">LOGIN</button></p>
+ <p style="height: 30px"><button color="red" type="submit" style="font-family: 'Times New Roman', Times, serif; font-size: x-large; background-color: #800000; color: #FFFFFF;height: 40px; position: relative;">SIGN UP</button></p>
+</div></div></center>
+    <div class="w3-content" style="max-width:700px"  background-image: url('Image[9].jpeg')>
+       <h3 class="w3-center w3-padding-64" fontcolor="red" style="background-image: url('Image[9].jpeg')"><span class="w3-tag w3-wide">
+        </div>
+
+
+
+
+
+</body>
+</html>
